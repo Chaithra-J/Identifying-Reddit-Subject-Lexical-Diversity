@@ -62,3 +62,26 @@ The most common words used in the subreddits are:
 | r/news      | ('one', 87), ('like', 85), ('go', 77), ('peopl', 65), ('fuck', 64), ('http', 62), ('time', 59), ('would', 59), ('year', 58), ('rip', 58) |
 | r/books     | ('book', 255), ('read', 232), ('like', 183), ('get', 167), ('peopl', 162), ('make', 119), ('would', 104), ('net', 103), ('kid', 101), ('neutral', 99) |
 | r/movies    | ('senat', 420), ('power', 145), ('unlimit', 133), ('movi', 83), ('post', 82), ('like', 82), ('one', 70), ('time', 65), ('cancer', 65), ('get', 62) |
+
+On analyzing the common words and comparing it with the chosen subreddit meta data, it can be inferred 
+that the common words such as ‘putin’, ‘trump’, ‘russia’, ‘world’ help in identifying the subreddit as
+r/worldnews. Similarly, words such as ‘book’ and ‘read’ help identify the r/books subreddit, words like
+‘peopl’, ‘rip’ help identify r/news and words like ‘movi’, ‘post’ and ‘time’ help identify r/movies subreddit.
+However, r/news and r/movies subreddit’s common words appear to be quite vague and makes it difficult
+to identify the correct subject of the subreddit by manually comparing them with the respective subreddit
+meta information. So, there is a need for multiple methodological approaches to accurately identify the
+subject of the subreddits in the case of r/news and r/books.
+The frequency distribution plot for the processed and unprocessed tokens are as below:
+
+
+### Content Structure - Lexical Diversity and Tagged Corporas:
+The content structure was analyzed with a POS tagger. In addition the readability and clarity of the
+data was analyzed with the help of Lexical Diversity scores(type-token ratio). The Lexical Diversity Score
+is as follows:
+**| Subreddit   | | Lexical Diversity(in %) |**
+  | ------------| |-------------------------|
+  | r/worldnews | | 33.5 |
+  | r/news      | | 33.45 |
+  | r/books     | | 25.92 |
+  | r/movies    | | 31.6 |
+
