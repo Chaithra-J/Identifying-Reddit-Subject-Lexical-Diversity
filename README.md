@@ -73,7 +73,11 @@ meta information. So, there is a need for multiple methodological approaches to 
 subject of the subreddits in the case of r/news and r/books.
 The frequency distribution plot for the processed and unprocessed tokens are as below:
 
-![image](https://github.com/user-attachments/assets/ee1c393b-9266-4583-9a78-27b1a905aa95)
+![a. Frequency distribution graph for r/worldnews](https://github.com/user-attachments/assets/4a9e6e64-a5b3-4d5b-8c45-98ad79c0a6ae)
+![b. Frequency distribution graph for r/news](https://github.com/user-attachments/assets/2ddd9fd5-7bf0-45f1-a0b8-2fa47a26c04e)
+![c. Frequency distribution graph for r/books](https://github.com/user-attachments/assets/cab3b17c-4213-402c-88e9-6adfaebf3042)
+![d. Frequency distribution graph for r/movies](https://github.com/user-attachments/assets/7fd27ebc-22f2-41b4-9580-a1a81561f824)
+
 
 
 ### Content Structure - Lexical Diversity and Tagged Corporas:
