@@ -78,10 +78,11 @@ The frequency distribution plot for the processed and unprocessed tokens are as 
 The content structure was analyzed with a POS tagger. In addition the readability and clarity of the
 data was analyzed with the help of Lexical Diversity scores(type-token ratio). The Lexical Diversity Score
 is as follows:
-**| Subreddit   | | Lexical Diversity(in %) |**
-  | ------------| |-------------------------|
-  | r/worldnews | | 33.5 |
-  | r/news      | | 33.45 |
-  | r/books     | | 25.92 |
-  | r/movies    | | 31.6 |
+
+**| Subreddit   | Lexical Diversity(in %) |**
+  | ------------|-------------------------|
+  | r/worldnews | 33.5 |
+  | r/news      | 33.45 |
+  | r/books     | 25.92 |
+  | r/movies    | 31.6 |
 
