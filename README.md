@@ -56,16 +56,8 @@ the text was also studied. The results are succinctly summarized below:
 ### Identifying Common words:
 The most common words used in the subreddits are:
 | Subreddits | | Most Common Words |
-| ---------- | | ----------------- |
-| r/worldnews | | ('putin', 114), ('http', 108), ('trump', 91), ('like', 90),
-('peopl', 89), ('russia', 84), ('world', 71), ('russian',
-69), ('one', 67), ('would', 63)
-r/news ('one', 87), ('like', 85), ('go', 77), ('peopl', 65),
-('fuck', 64), ('http', 62), ('time', 59), ('would', 59),
-('year', 58), ('rip', 58) |
-| r/books | | ('book', 255), ('read', 232), ('like', 183), ('get', 167),
-('peopl', 162), ('make', 119), ('would', 104), ('net',
-103), ('kid', 101), ('neutral', 99) |
-| r/movies | | ('senat', 420), ('power', 145), ('unlimit', 133),
-('movi', 83), ('post', 82), ('like', 82), ('one', 70),
-('time', 65), ('cancer', 65), ('get', 62) |
+| --- | | --- |
+| r/worldnews | | ('putin', 114), ('http', 108), ('trump', 91), ('like', 90), ('peopl', 89), ('russia', 84), ('world', 71), ('russian', 69), ('one', 67), ('would', 63) |
+| r/news | | ('one', 87), ('like', 85), ('go', 77), ('peopl', 65), ('fuck', 64), ('http', 62), ('time', 59), ('would', 59), ('year', 58), ('rip', 58) |
+| r/books | | ('book', 255), ('read', 232), ('like', 183), ('get', 167), ('peopl', 162), ('make', 119), ('would', 104), ('net', 103), ('kid', 101), ('neutral', 99) |
+| r/movies | | ('senat', 420), ('power', 145), ('unlimit', 133), ('movi', 83), ('post', 82), ('like', 82), ('one', 70), ('time', 65), ('cancer', 65), ('get', 62) |
