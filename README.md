@@ -86,6 +86,73 @@ is as follows:
 | r/books     | 25.92                    |
 | r/movies    | 31.6                     |
 
-| Subreddit   | Laxical Diversity (in %) |
-| r/worldnews | 33.5                     |
+It was observed that the r/worldnews has the highest lexical diversity and r/books has the lowest lexical
+diversity score amongst the other four subreddits.
+It can be inferred that, due to low lexical diversity score the language used is mostly colloquial and
+significantly impacts the content structure hence impact the user engagement in the case of r/books
+subreddit.
 
+## Discussion
+The study attempts to analyze the most common words and check whether they can be used to
+identify the subject of the subreddit and also to analyze the lexical diversity and tagged corpora to analyze
+the content structure for readability and clarity. Not much research publication or articles or journals are
+published in this context. But, there are research papers that compare the language usage in multiple
+subreddits and study its impact on content structure.
+With over 138,000 active subject communities known as "subreddits," Reddit has grown to be one
+of the most well-known social media sites on the internet with 52 million daily active members(Marotti,
+2018). By enabling users to publish news, queries, and other material in the form of text, photographs, and
+links to other websites, Reddit aspires to be the front page of the internet(Horne et al., 2017). Users
+frequently interact with the posts by participating in or reading discussions that are made up of comments
+left by other members of the community. Horne et al., in their research also state that reddit's discussions
+are a crucial and useful feature(2017). Politics is generally one of the most talked about subjects on the site,
+and numerous subreddits devoted to American politics frequently rank among the most popular
+communities there. With millions of subscribers on Reddit and other online platforms, these communities
+have a huge reach.
+Reddit, which is structured around its communities known as subreddits, has unquestionably
+developed its own standards and culture(Horne et al., 2017). Topic, audience, moderation, and style are
+four particular areas in which subreddits differ from one another(Horne et al., 2017). Reddit groups have
+been described as functioning as communities by researchers (Bergstrom, 2011; Panek et al., 2018),
+although this is not to say that they are always stable. The initial subreddit and its community may
+disappear due to inactivity if members have a cause to go to another subreddit and completely abandon the
+first one(Jones et al., 2021). Jones et al., states that on Reddit, community building is user-driven rather
+than enforced by hierarchical organizational structures(2021).
+In alignment with my study, Adamov et. al. 's work states that, one of the most significant subfields
+in computational linguistics and natural language processing (NLP) is word frequency distribution (WFD).
+The size and caliber of the corpora have a significant impact on the reliability and quality of WFD
+results(2015).
+According to Horne et al., some subreddits (like r/AskHistorians or r/Bitcoin) are subject-specific,
+but others (like r/AskReddit) are generic in nature(2017). Whether a subreddit targets a niche audience or
+not can vary, as in the instance of r/Bitcoin, which caters to experts in this field(Horne et al., 2017). On
+some subreddits, such as r/todayilearned, which prioritizes submissions that are verifiable facts, there is a
+very precise way to post questions and comments(Horne et al., 2017). While there are guidelines for what
+kinds of content are acceptable in each subreddit, the precision of the guidelines and the degree of
+moderation vary widely amongst subreddits(Horne et al., 2017). Although Horne et al. 's work mainly
+focuses on language’s impact on reddit discussions, their study on content structure such as readability and
+clarity is judged based on POS tagger and type-text ratio is quite similar to the analysis this study aims to
+analyze.
+The piece by Jaech et al. that most closely relates to our work examines how language affects reddit
+debates where the authors employ an SVM ranking algorithm to order comment threads in 6 different
+subreddits utilizing a collection of several intricate natural language parameters(2015).
+
+## Conclusion:
+To conclude, it is possible to identify the subject of various subreddits with the aid of word
+frequency analysis and manually comparing it with the respective subreddit’s meta information. Although
+identifying the subject of various reddits were possible with the help of word frequency analysis, working
+with Reddit data, though, could be challenging. The variety of media formats on Reddit may need
+academics to apply several methodological approaches in their analysis(Proferes et al., 2021). And the
+lexical diversity score analysis of various subreddits suggest that the vocabulary usage in subreddit r/books
+was more colloquial than that of the other subreddits which implies that it might affect the content clarity
+and reliability affecting user engagement with the subreddit.
+
+## References
+ - Adamov, A. (2015). Text analysis case study: Determining word Frequency based on Azerbaijan top 500 websites. Advanced Industrial Conference on Telecommunications.
+  - "https://doi.org/10.1109/icaict.2015.7338521"
+Bergstrom, K., & Poor, N. (2022). Signaling the Intent to Change Online Communities: A Case From a
+Reddit Gaming Community. Social Media and Society, 8(2), 205630512210968.
+https://doi.org/10.1177/20563051221096817
+Bergstrom, K. (2019). Moving beyond churn: Barriers and constraints to playing a social network game.
+Games and Culture, 14(2), 170–189. https://doi.org/10.1177/1555412018791697
+Horne, B. D., Adali, S., & Sikdar, S. (2017). Identifying the social signals that drive online discussions: A
+case study of Reddit communities. ArXiv (Cornell University).
+https://doi.org/10.48550/arxiv.1705.02673
+A. Jaech, V. Zayats, H. Fang, M. Ostendorf, and H. Hajishirzi, “Talking to the crowd: What do people react
