@@ -145,14 +145,12 @@ was more colloquial than that of the other subreddits which implies that it migh
 and reliability affecting user engagement with the subreddit.
 
 ## References
- - Adamov, A. (2015). Text analysis case study: Determining word Frequency based on Azerbaijan top 500 websites. Advanced Industrial Conference on Telecommunications.
-  - "https://doi.org/10.1109/icaict.2015.7338521"
-Bergstrom, K., & Poor, N. (2022). Signaling the Intent to Change Online Communities: A Case From a
-Reddit Gaming Community. Social Media and Society, 8(2), 205630512210968.
-https://doi.org/10.1177/20563051221096817
-Bergstrom, K. (2019). Moving beyond churn: Barriers and constraints to playing a social network game.
-Games and Culture, 14(2), 170–189. https://doi.org/10.1177/1555412018791697
-Horne, B. D., Adali, S., & Sikdar, S. (2017). Identifying the social signals that drive online discussions: A
-case study of Reddit communities. ArXiv (Cornell University).
-https://doi.org/10.48550/arxiv.1705.02673
-A. Jaech, V. Zayats, H. Fang, M. Ostendorf, and H. Hajishirzi, “Talking to the crowd: What do people react
+ - Adamov, A. (2015). Text analysis case study: Determining word Frequency based on Azerbaijan top 500 websites. Advanced Industrial Conference on Telecommunications. "https://doi.org/10.1109/icaict.2015.7338521"
+ - Bergstrom, K., & Poor, N. (2022). Signaling the Intent to Change Online Communities: A Case From a Reddit Gaming Community. Social Media and Society, 8(2), 205630512210968. "https://doi.org/10.1177/20563051221096817"
+ - Bergstrom, K. (2019). Moving beyond churn: Barriers and constraints to playing a social network game. Games and Culture, 14(2), 170–189. "https://doi.org/10.1177/1555412018791697"
+ - Horne, B. D., Adali, S., & Sikdar, S. (2017). Identifying the social signals that drive online discussions: A case study of Reddit communities. ArXiv (Cornell University). "https://doi.org/10.48550/arxiv.1705.02673"
+ - A. Jaech, V. Zayats, H. Fang, M. Ostendorf, and H. Hajishirzi, “Talking to the crowd: What do people react to in online discussions?” arXiv preprint arXiv:1507.02205, 2015.
+ - Marotti A. (2018, April 23). Reddit to open Chicago office as part of advertising push. Chicagotribune.Com. "https://www.chicagotribune.com/business/ct-biz-reddit-chicago-office-20180418-story.html"
+ - Proferes, N., Jones, N., Gilbert, S., Fiesler, C., & Zimmer, M. (2021). Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics. Social Media + Society, 7(2). "https://doi.org/10.1177/20563051211019004"
+ - Quick Start — PRAW 7.7.0 documentation. (n.d.). "https://praw.readthedocs.io/en/stable/getting_started/quick_start.html"
+ - Singh, M. (2021, December 14). Automate Sentiment Analysis Process for Reddit Post: TextBlob and VADER. Medium. "https://towardsdatascience.com/automate-sentiment-analysis-process-for-reddit-post-textblob-and-vader-8a79c269522f"
