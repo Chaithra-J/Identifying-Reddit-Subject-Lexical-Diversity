@@ -79,10 +79,13 @@ The content structure was analyzed with a POS tagger. In addition the readabilit
 data was analyzed with the help of Lexical Diversity scores(type-token ratio). The Lexical Diversity Score
 is as follows:
 
-**| Subreddit   | Lexical Diversity(in %) |**
-  | ------------|-------------------------|
-  | r/worldnews | 33.5 |
-  | r/news      | 33.45 |
-  | r/books     | 25.92 |
-  | r/movies    | 31.6 |
+| Subreddit   | Lexical Diversity (in %) |
+|-------------|--------------------------|
+| r/worldnews | 33.5                     |
+| r/news      | 33.45                    |
+| r/books     | 25.92                    |
+| r/movies    | 31.6                     |
+
+| Subreddit   | Laxical Diversity (in %) |
+| r/worldnews | 33.5                     |
 
